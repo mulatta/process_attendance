@@ -1,0 +1,32 @@
+# Python 관련
+__pycache__/
+*.py[cod]
+*.so
+
+# 가상 환경
+venv/
+env/
+.env
+
+# IDE 관련
+.vscode/
+.idea/
+
+# 운영 체제 관련
+.DS_Store
+Thumbs.db
+
+# 프로젝트 특정 파일
+*.xlsx
+*.xls
+*.csv
+result.xlsx
+user_info/
+
+# 빌드 관련
+build/
+dist/
+*.spec
+
+# Pipenv
+Pipfile.lock

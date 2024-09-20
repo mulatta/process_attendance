@@ -31,4 +31,4 @@ dist/
 Pipfile.
 
 # 예외 제외 파일
-join.files.py
+join_files.py

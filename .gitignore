@@ -20,7 +20,6 @@ Thumbs.db
 *.xlsx
 *.xls
 *.csv
-result.xlsx
 user_info/
 
 # 빌드 관련
@@ -29,4 +28,7 @@ dist/
 *.spec
 
 # Pipenv
-Pipfile.lock
+Pipfile.
+
+# 예외 제외 파일
+join.files.py
